@@ -1,4 +1,4 @@
-# DevOps-Course-2024
+DevOps-Course-2024
 
 #Jawad Ur Rehman  20i-0633
 
